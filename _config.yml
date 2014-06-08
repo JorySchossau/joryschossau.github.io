@@ -1,0 +1,12 @@
+name: ""
+description: "Jory Schossau"
+author: "Jory Schossau"
+author_email: "jory@msu.edu"
+
+url: "http://www.github.com/joryschossau/joryschossau.github.io"
+
+paginate: 10
+
+markdown: kramdown
+permalink: pretty
+pygments: true
