@@ -10,3 +10,5 @@ paginate: 10
 markdown: kramdown
 permalink: pretty
 pygments: true
+
+theme: jekyll-theme-modernist
